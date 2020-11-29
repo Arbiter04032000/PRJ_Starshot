@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PRJ_Starshot.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E48C5936-B507-4746-AF61-B91BE088AA8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PRJ_Starshot.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PRJ_StarshotEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FC2F0B24-4F26-4BFB-9083-26F7B620C2BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{956C6664-6A0A-4187-90D0-AFAA9441889E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{5DEC3D2F-2453-4F12-8D87-9EBC120A6E5C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{2C0BDAE5-2E23-4796-A02B-F169C7B25BFA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{BC8C3D48-C0D5-4754-9378-C3822FB9505A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{2FA1424C-D86A-4B74-93E4-52F8CA63EBED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{B53ABB1D-9225-4E05-9894-3FA09FE879D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{E975C3A3-F51B-4E6E-98A7-45798D7FF52E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{9EFF55CD-EB2A-49EA-B9DB-F38F706E3D82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\PRJ_Starshot">
+      <UniqueIdentifier>{93DA9BA0-D65A-4503-B0CE-393F5B93D261}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PRJ_Starshot\GM_StarshotStory.cpp">
+      <Filter>Source\PRJ_Starshot</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PRJ_Starshot\GM_StarshotStory.h">
+      <Filter>Source\PRJ_Starshot</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PRJ_Starshot\PRJ_Starshot.Build.cs">
+      <Filter>Source\PRJ_Starshot</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PRJ_Starshot\PRJ_Starshot.cpp">
+      <Filter>Source\PRJ_Starshot</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PRJ_Starshot\PRJ_Starshot.h">
+      <Filter>Source\PRJ_Starshot</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
