@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PRJ_STARSHOT_GM_StarshotStory_generated_h
 
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS_NO_PURE_DECLS \
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGM_StarshotStory(); \
 	friend struct Z_Construct_UClass_AGM_StarshotStory_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(AGM_StarshotStory)
 
 
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS \
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAGM_StarshotStory(); \
 	friend struct Z_Construct_UClass_AGM_StarshotStory_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(AGM_StarshotStory)
 
 
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_STANDARD_CONSTRUCTORS \
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AGM_StarshotStory(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGM_StarshotStory) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_ENHANCED_CONSTRUCTORS \
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AGM_StarshotStory(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -59,26 +59,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGM_StarshotStory); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGM_StarshotStory)
 
 
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_PRIVATE_PROPERTY_OFFSET
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_12_PROLOG
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_GENERATED_BODY_LEGACY \
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_PRIVATE_PROPERTY_OFFSET
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_12_PROLOG
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_PRIVATE_PROPERTY_OFFSET \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_STANDARD_CONSTRUCTORS \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_PRIVATE_PROPERTY_OFFSET \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_GENERATED_BODY \
+#define Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_PRIVATE_PROPERTY_OFFSET \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS_NO_PURE_DECLS \
-	PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h_15_ENHANCED_CONSTRUCTORS \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_PRIVATE_PROPERTY_OFFSET \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_INCLASS_NO_PURE_DECLS \
+	Project_Source_PRJ_Starshot_GM_StarshotStory_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -86,7 +86,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> PRJ_STARSHOT_API UClass* StaticClass<class AGM_StarshotStory>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID PRJ_Starshot_Source_PRJ_Starshot_GM_StarshotStory_h
+#define CURRENT_FILE_ID Project_Source_PRJ_Starshot_GM_StarshotStory_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

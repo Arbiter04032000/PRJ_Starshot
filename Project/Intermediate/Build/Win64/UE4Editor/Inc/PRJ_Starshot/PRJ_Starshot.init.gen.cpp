@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodePRJ_Starshot_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x79E3684E,
-				0x4BC1B39E,
+				0x3924325F,
+				0x2EBF98A2,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

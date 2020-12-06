@@ -380,6 +380,8 @@
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini"/>
     <ClCompile Include="..\..\Source\PRJ_Starshot\GM_StarshotStory.cpp"/>
     <ClInclude Include="..\..\Source\PRJ_Starshot\GM_StarshotStory.h"/>
+    <ClCompile Include="..\..\Source\PRJ_Starshot\GM_StarshotStrategy.cpp"/>
+    <ClInclude Include="..\..\Source\PRJ_Starshot\GM_StarshotStrategy.h"/>
     <None Include="..\..\Source\PRJ_Starshot\PRJ_Starshot.Build.cs"/>
     <ClCompile Include="..\..\Source\PRJ_Starshot\PRJ_Starshot.cpp"/>
     <ClInclude Include="..\..\Source\PRJ_Starshot\PRJ_Starshot.h"/>
