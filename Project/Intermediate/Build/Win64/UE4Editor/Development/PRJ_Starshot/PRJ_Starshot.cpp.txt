@@ -1,2 +1,0 @@
-C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Project\Intermediate\Build\Win64\UE4Editor\Development\PRJ_Starshot\Definitions.PRJ_Starshot.h
-c:\users\xavier\desktop\projects\prj_starshot\project\source\prj_starshot\PRJ_Starshot.h

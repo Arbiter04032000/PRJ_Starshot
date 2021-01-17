@@ -1,7 +1,0 @@
-C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Project\Intermediate\Build\Win64\UE4Editor\Development\PRJ_Starshot\Definitions.PRJ_Starshot.h
-c:\users\xavier\desktop\projects\prj_starshot\project\source\prj_starshot\GM_StarshotStory.h
-D:\EGL_Library\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\EGL_Library\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\EGL_Library\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\EGL_Library\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Project\Intermediate\Build\Win64\UE4Editor\Inc\PRJ_Starshot\GM_StarshotStory.generated.h

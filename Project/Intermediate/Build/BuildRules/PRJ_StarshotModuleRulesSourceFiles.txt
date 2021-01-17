@@ -1,3 +1,0 @@
-C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Project\Source\PRJ_Starshot\PRJ_Starshot.Build.cs
-C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Project\Source\PRJ_Starshot.Target.cs
-C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Project\Source\PRJ_StarshotEditor.Target.cs

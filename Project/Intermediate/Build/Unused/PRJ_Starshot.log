@@ -1,5 +1,0 @@
-﻿  Parsing headers for PRJ_StarshotEditor
-    Running UnrealHeaderTool "C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\PRJ_Starshot.uproject" "C:\Users\Xavier\Desktop\Projects\PRJ_Starshot\Intermediate\Build\Win64\PRJ_StarshotEditor\Development\PRJ_StarshotEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for PRJ_StarshotEditor in 14.307686 seconds
-  Target is up to date
-  Total execution time: 16.05 seconds
