@@ -75,3 +75,5 @@ Project/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Project/DerivedDataCache/*
+
+Project 4.23/*
