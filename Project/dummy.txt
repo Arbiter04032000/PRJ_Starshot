@@ -1,0 +1,10 @@
+"Modules": [
+		{
+			"Name": "PRJ_Starshot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
