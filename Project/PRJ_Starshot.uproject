@@ -3,7 +3,16 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	
+	"Modules": [
+		{
+			"Name": "PRJ_Starshot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
 		"AllDesktop"
