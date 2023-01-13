@@ -44,9 +44,10 @@
 *.blend2
 *.blend3
 
-# Precompiled Assets
-Project/SourceArt/**/*.png
-Project/SourceArt/**/*.tga
+# Autosaves
+Assets/*.png~
+Assets/*.kra~
+Assets/*.blend1
 
 # Binary Files
 Project/Binaries/*
